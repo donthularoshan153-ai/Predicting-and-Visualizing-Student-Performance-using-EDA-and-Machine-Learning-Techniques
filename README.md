@@ -1,0 +1,2 @@
+# Predicting-and-Visualizing-Student-Performance-using-EDA-and-Machine-Learning-Techniques
+This project predicts and visualizes student performance using Exploratory Data Analysis and Machine Learning. It analyzes cognitive and psychomotor skills from LMS data using KNN and Multiple Regression. The system helps teachers evaluate students efficiently, achieving up to 99% accuracy with Multiple Regression.
